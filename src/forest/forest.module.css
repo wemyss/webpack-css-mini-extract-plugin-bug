@@ -1,0 +1,3 @@
+@value someColor from "../color/color.module.css";
+
+@value someForest: 1px;

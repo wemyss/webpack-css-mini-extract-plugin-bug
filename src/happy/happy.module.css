@@ -1,0 +1,6 @@
+@value someForest from "../forest/forest.module.css";
+
+
+.smile {
+    top: someForest;
+}

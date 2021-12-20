@@ -1,0 +1,5 @@
+@value someForest from "../forest/forest.module.css";
+
+.cold {
+  bottom: someForest;
+}

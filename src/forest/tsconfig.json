@@ -1,0 +1,13 @@
+{
+  "include": [
+    "./**/*.*"
+  ],
+  "compilerOptions": {
+    "types": []
+  },
+  "references": [
+    { "path": "../color" }
+  ],
+  "externalReferences": [],
+  "exclude": [],
+}
